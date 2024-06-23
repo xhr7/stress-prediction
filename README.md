@@ -32,7 +32,9 @@ To validate the models, cross-validation techniques are applied:
 
 Cross-Validation: This technique enhances the robustness and generalizability of the models by using different subsets of the dataset for training and validation in multiple iterations. It helps in identifying how the model will perform with unseen data.
 Outcomes and Impact
-Model Performance:
+
+
+## Model Performance:
 The models demonstrate high accuracy in classifying stress levels, with Logistic Regression performing exceptionally well, suggesting its suitability for deployment in real-world applications.
 
 
