@@ -1,6 +1,6 @@
 # stress-prediction
 
-##Project Overview
+## Project Overview
 
 This project develops an innovative system to detect and quantify stress levels objectively using physiological data collected from wearable sensors. By integrating machine learning algorithms, the system classifies stress into five levels from low to high, enhancing the accuracy and reliability of stress assessments beyond traditional subjective methods.
 
