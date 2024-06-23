@@ -4,7 +4,7 @@
 
 This project develops an innovative system to detect and quantify stress levels objectively using physiological data collected from wearable sensors. By integrating machine learning algorithms, the system classifies stress into five levels from low to high, enhancing the accuracy and reliability of stress assessments beyond traditional subjective methods.
 
-##Data Collection and Preprocessing
+## Data Collection and Preprocessing
 
 Collection:
 The physiological data for this project is sourced from the "Human Stress Detection in and through Sleep" dataset available on Kaggle. This data includes vital signs such as heart rate, respiration rate, body temperature, and other metrics recorded during sleep.
